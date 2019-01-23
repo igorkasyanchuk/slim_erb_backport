@@ -37,7 +37,7 @@ $ bundle
 
 You are welcome to contribute.
 
-Big thank you to authour of SLIM that he originally added support of ERB inside slim views.
+Big thank you to author of SLIM that he originally added support of ERB inside slim views.
 
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
