@@ -3,7 +3,7 @@ PATH
   specs:
     slim_erb_backport (0.1.0)
       rails
-      slim
+      slim (>= 4.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -135,4 +135,4 @@ DEPENDENCIES
   sqlite3
 
 BUNDLED WITH
-   1.16.2
+   1.17.2
