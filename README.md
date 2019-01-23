@@ -1,6 +1,8 @@
 # SlimERBBackport
 
-For Slim 4+ version backbort support for ERB syntax in SLIM files.
+If you are using Slim 4+ version and embedding ERB inside probably you have noticed that it doen'ts work.
+
+This gem backports support for newer versions of Slim support for ERB.
 
 ## Usage
 
